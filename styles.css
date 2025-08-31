@@ -12,7 +12,7 @@ body {
     line-height: 1.6;
     position: relative;
     overflow-x: hidden;
-    font-size: 40px;
+    font-size: 18px;
 }
 
 /* Handmade background sketch *//* Footer */
@@ -57,7 +57,7 @@ body {
 }
 
 .logo {
-    font-size: 10rem;
+    font-size: 4rem;
     font-weight: 700;
     color: #2c2c2c;
     margin-bottom: 1.5rem;
@@ -218,28 +218,28 @@ body {
 
 /* Typography */
 h2 {
-    font-size: 6rem;
+    font-size: 2.8rem;
     color: #1a1a1a; /* Darker for better contrast */
     margin-bottom: 2rem;
     font-weight: 700;
 }
 
 h3 {
-    font-size: 4.5rem;
+    font-size: 2.2rem;
     color: #2ba89e; /* More vibrant teal */
     margin-bottom: 1.5rem;
     font-weight: 400;
 }
 
 h4 {
-    font-size: 3.5rem;
+    font-size: 1.8rem;
     color: #2980b9; /* More vibrant blue */
     margin-bottom: 1rem;
 }
 
 p {
     margin-bottom: 2rem;
-    font-size: 2.5rem;
+    font-size: 1.1rem;
     line-height: 1.8;
     color: #2c2c2c; /* Ensure good contrast */
 }
@@ -280,7 +280,7 @@ p {
 }
 
 .date {
-    font-size: 2.2rem;
+    font-size: 1rem;
     color: #96ceb4;
     font-weight: 300;
     font-style: italic;
